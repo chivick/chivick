@@ -4,7 +4,7 @@
    
 
 <p align="left" style="display:none;">
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=chivick&theme=dark&langs_count=6&layout=compact"><img alt="ChiVick's Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chivick&theme=dark&langs_count=4&layout=compact&show_icons=true&custom_title=React%20Focused+%2F+Typescript" /></a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=chivick&theme=dark&langs_count=6&layout=compact"><img alt="ChiVick's Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chivick&theme=dark&langs_count=4&layout=compact&show_icons=true&custom_title=Core%20React.js%20Developer" /></a>
  </p>
    
   </td>
