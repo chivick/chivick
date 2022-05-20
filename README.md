@@ -16,7 +16,7 @@
     
   <tr>
     <td colspan="3" align="left">
-     FrontEnd Skills(s)
+     FrontEnd Skills
    </td>
     </tr>
     
@@ -27,13 +27,38 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg" alt="Javascript ES5/ES6"  height="60">
+      <img src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg" alt="Javascript ES5/ES6/ES7"  height="60">
     </td>
     <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React/Angular++"  height="60">
-    </td>    
+      <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React"  height="60">
+    </td> 
     <td align="center">
       <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/redux.svg" alt="Redux++" height="60"/>
+    </td>
+   </tr> 
+</table>
+   
+   <table border="0">
+    
+  <tr>
+    <td colspan="3" align="left">
+     BackEnd Skills
+   </td>
+    </tr>
+    
+  <tr>
+    <th align="left">Node.js</th>
+    <th align="left">Express</th>
+   <th align="left">MongoDB</th>
+  </tr>
+  <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js"  height="60">
+    </td>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express"  height="60">
+    </td>  
+   <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB"  height="60">
     </td>
    </tr> 
 </table>
